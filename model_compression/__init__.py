@@ -1,0 +1,1 @@
+from .compressor import compress\nfrom .quantize import Quantizer\nfrom .pruner import Pruner\n__version__ = "1.0.0"\n
